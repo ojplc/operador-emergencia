@@ -17,4 +17,7 @@ O domínio utilizado é o de um operador de serviços de emergência, o qual dev
 Ao receber " ----- LIGAÇÃO NÃO ERA EMERGÊNCIA ----- " <br> " ------ TRANSFERIDO PARA HUMANO ------ " <br> " ----- LIGAÇÃO CONCLUIDA COM SUCESSO ----- " <br>ou quando estiver com "User: " no terminal aperte ENTER para encerrar a execução
 
 
+### Reflexão
+Leia o arquivo [Reflexao.md](Reflexao.md) para ler o processo de contrução e as decisões tomadas na escrita do [system_prompt](system_prompt.txt)
+
 ### feito por João Pedro Lopes da Cruz
