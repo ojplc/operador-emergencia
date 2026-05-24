@@ -14,7 +14,7 @@ O domínio utilizado é o de um operador de serviços de emergência, o qual dev
 
 3. Rode o arquivo agent.py no terminal
 
-Ao receber " ----- LIGAÇÃO NÃO ERA EMERGÊNCIA ----- " <br> " ------ TRANSFERIDO PARA HUMANO ------ " <br> " ----- LIGAÇÃO CONCLUIDA COM SUCESSO ----- " <br>ou quando estiver com "User: " no terminal aperte ENTER para encerrar a execução
+Ao receber: <br> " ----- LIGAÇÃO NÃO ERA EMERGÊNCIA ----- " <br> " ------ TRANSFERIDO PARA HUMANO ------ " <br> " ----- LIGAÇÃO CONCLUIDA COM SUCESSO ----- " <br>ou quando estiver com "User: " no terminal aperte ENTER para encerrar a execução
 
 
 ### Reflexão
