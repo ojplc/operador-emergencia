@@ -1,5 +1,8 @@
 # Operador de emergência
 
+Atividade realizada no processo trainee da computer society IEEE UnB do grupo de estudos de inteligência artificial
+
+## Domínio
 O domínio utilizado é o de um operador de serviços de emergência, o qual deve despachar corretamente o serviço de emergência necessário (bombeiro, polícia e/ou ambulância), desligar caso não seja uma emergência e encaminhar para um humano caso seja uma emergência médica.
 
 ## Como rodar
@@ -11,7 +14,7 @@ O domínio utilizado é o de um operador de serviços de emergência, o qual dev
 
 3. Rode o arquivo agent.py no terminal
 
-Ao receber " ----- LIGAÇÃO NÃO ERA EMERGÊNCIA ----- " ou " ------ TRANSFERIDO PARA HUMANO ------ " ou " ----- LIGAÇÃO CONCLUIDA COM SUCESSO ----- " ou quando estiver com "User: " no terminal aperte ENTER para encerrar a execução
+Ao receber " ----- LIGAÇÃO NÃO ERA EMERGÊNCIA ----- " <br> " ------ TRANSFERIDO PARA HUMANO ------ " <br> " ----- LIGAÇÃO CONCLUIDA COM SUCESSO ----- " <br>ou quando estiver com "User: " no terminal aperte ENTER para encerrar a execução
 
 
 ### feito por João Pedro Lopes da Cruz
